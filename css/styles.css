@@ -1,0 +1,125 @@
+
+
+/*************Tag Selectors************/
+div {
+  text-align: center;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+}
+
+h1 {
+  color: #006a71;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento',cursive;
+}
+
+h2 {
+  color: #006a71;
+  font-size: 2.5rem;
+  font-family: 'Montserrat',sans-serif;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #006a71;
+}
+
+a {
+  color: #006a71;
+}
+
+hr {
+  margin: 100px auto;
+  border: dotted #006a71 6px;
+  border-bottom: none;
+  width: 5%
+}
+
+p {
+  line-height: 2;
+}
+/**************class selectors**************/
+
+
+.top-container {
+  background-color:#68b0ab;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {position:absolute;
+            top: 50px;
+            right: 250px;
+}
+
+.bottom-cloud {position:absolute;
+               left: 250px;
+               bottom: 300px;
+}
+
+.middle-container {
+  margin: 100px 0;
+
+}
+
+.bottom-container {
+  background-color: #68b0ab;
+  padding-top: 20px
+}
+
+.pro {
+  font-weight: normal;
+}
+
+.skill-row {
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.tekken-img {
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.challenger-gif {
+  width:25%;
+  float: right;
+}
+
+.basketball-gif {
+  width:25%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 50%;
+  margin: 40px auto 50px;
+}
+
+.btn {
+}
+
+.footer-link {
+  margin: 0 20px;
+}
+
+.end {
+  color: #EAF6F6;
+  font-size: .8rem;
+}
+  /*************ID Selectors***********/
